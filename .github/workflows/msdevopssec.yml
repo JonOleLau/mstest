@@ -41,4 +41,3 @@ jobs:
       with:  
         name: alerts
         path: ${{ steps.msdo.outputs.sarifFile }}
-#
